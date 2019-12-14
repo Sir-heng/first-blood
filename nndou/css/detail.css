@@ -1,0 +1,47 @@
+.gps{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.gps p ,.gps p a{
+    color: #b2b2b2;
+}
+.gps p a:last-child{
+    color:#ffdb48;
+}
+.det_one{
+    padding:50px 0;
+}
+hr{
+    width: 45px;
+    border: 1px solid #ffce05;
+    margin-top:0;
+}
+.det_one p{
+    color:#b8b8b8;
+    padding-bottom: 30px;
+}
+.det_two  p{
+    color:#b8b8b8;
+}
+.det_thr {
+    padding:50px 0;
+}
+.det_thr p{
+    padding-bottom: 30px;
+    color:#b8b8b8;
+}
+.bottom-nav{
+    padding:50px 0;
+   
+}
+.bottom-nav ul li a {
+    color:#929292;
+}
+.bottom-nav ul{
+    display: flex;
+    justify-content: space-around;
+    font-size: 18px;
+}
+.bottom-nav ul li{
+    margin-right: 20px;
+}

@@ -1,0 +1,64 @@
+.nav_title{
+    display: flex;
+    justify-content: space-around;
+
+}
+.top_nav{
+    padding:20px 0;
+}
+
+.nav_title a{
+    color:#333;
+}
+.nav_title li a:hover{
+    color:#f6e068;
+}
+.case_one{
+    padding:50px 0;
+    background: #f6f6f6;
+}
+.case_game{
+    margin-top: 55px;
+}
+.case_game p:nth-child(2){
+    color:#c1c1c1;
+}
+.case_two{
+    padding:50px 0; 
+}
+.case_company{
+    margin-top: 55px;
+}
+.case_company p:nth-child(2){
+    color:#c1c1c1;
+}
+.case_three{
+    padding:50px 0;
+    background: #f6f6f6;
+}
+.case_dz p:nth-child(2){
+    color:#c1c1c1;
+}
+.case-img{
+  margin-top: 55px;
+}
+.case_four{
+    padding:50px 0;
+}
+.case_fa p:nth-child(2){
+    color:#c1c1c1;
+}
+.case_five{
+    padding:50px 0;
+    background: #f6f6f6;
+
+}
+.case_web  p:nth-child(2){
+    color:#c1c1c1;
+}
+.case_six{
+    padding:50px 0;
+}
+.case_bs p:nth-child(2){
+    color:#c1c1c1;
+}

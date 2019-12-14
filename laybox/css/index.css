@@ -1,0 +1,118 @@
+.banner{
+    margin-top: 50px;
+    background-color: #2b80d9;
+}
+.banner-box img{
+    opacity: .8;
+}
+.banner-box img:hover{
+    opacity: 1;
+}
+.engine{
+    background-color: #fbfaf7;
+    padding: 100px 0 40px;
+}
+.engine .flash-title{
+    margin-bottom: 40px;
+}
+.engine .flash-title h1{
+    color: #0078d7;
+    font-size: 48px;
+    font-family: '黑体';
+}
+.engine .flash-title h4{
+    font-size: 30px;
+    color: #666666;
+}
+.engine .flash-items .media-object{
+    background-color: #0078d7;
+    border-radius: 4px;
+}
+.engine .media-body h4{
+    color: #333;
+}
+.engine .media-body p{
+    color: #666;
+}
+
+/*game*/
+.game{
+    padding: 80px 0 40px;
+    color: #2a2a2a;
+}
+.game .game-title a{
+    color: #2a2a2a;
+    line-height: 70px;
+}
+.game .video,
+.game .game-list{
+    margin-top: 40px;
+}
+
+/*合作伙伴*/
+.partner{
+    background-color: #f4f4f4;
+    padding: 40px 0 60px;
+}
+.partner .partner-list > div{
+    margin-bottom: 20px;
+}
+
+.youshi{
+    font-weight: bold;
+    color:#8fc31f;
+    padding-left: 8px;
+    padding-bottom: 45px;
+}
+.three{
+    background: #fff;
+}
+.three_adv{
+    padding-top: 200px;
+}
+.left_img img{
+    background: #8fc31f;
+    border-radius: 50%;
+}
+.font_h4{
+    padding-top:8px;
+}
+.four{
+    background-color:#0079d7;
+    color:#fff;
+}
+.four img{
+    max-width: 64px;
+    max-height: 64px;
+}
+.four .media:first-child{
+    padding-top: 15px;
+}
+.four .media{
+    height: 120px;
+}
+.family {
+    padding:30px 0;
+}
+.big_four{
+    padding-bottom: 40px;
+}
+.footer{
+    background: #3b3b3b;
+}
+.footer_left{
+    padding-top:15px;
+    padding-left:40px;
+    color:#8c8d94;
+}
+.footer_right img{
+    width: 35px;
+    height: 25px;
+    border-radius: 50%;
+    background: #d8d8e0;
+    margin-right: 10px;
+}
+.footer_right{
+    padding-right: 112px;
+    padding-top: 30px;
+}

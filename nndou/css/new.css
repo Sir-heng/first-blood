@@ -1,0 +1,24 @@
+.new_gps{
+    padding:20px 0;
+}
+.new_gps p{
+    color:#909192;
+}
+.news{
+    padding:30px 0;
+}
+.news ul{
+ display: inline-block;
+ margin-top: 10px;
+}
+.new_a{
+    width: 135px;
+    height: 35;
+    background: #f6ce2a;
+    color:#fff;
+    margin-top: 10px;
+}
+.tes{
+    text-indent: 20px;
+    color:#ccc;
+}

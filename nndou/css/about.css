@@ -1,0 +1,58 @@
+.intro{
+    padding:50px 0;
+}
+.intro-company{
+    margin-top:10px;
+}
+.intro-company h3{
+    border-bottom: 2px solid #ffce05;
+    width: 96px;
+    padding-bottom: 14px;
+}
+.intro-company P:nth-child(2){
+    font-size: 16px;
+    color:#b8b8b8;
+}
+.idea-com{margin-top:50px;}
+.idea{
+    background: #f3f3f3;
+}
+.idea p:nth-child(3){
+   color:#b4b4b4;
+   font-size: 16px; 
+    padding-top: 10px;
+}
+ .hr{
+   margin:0;
+    border: 1px solid #ffce05;
+    width: 100px;
+    margin-right: 270px;
+}
+.bus {
+    padding:50px 0;
+}
+.bus p:nth-child(3){
+    color:#b4b4b4;
+    font-size: 16px; 
+     padding-top: 10px;
+}
+.bus p:nth-child(4){
+    color:#999999;
+    font-size: 12px; 
+}
+.con{
+    color:#999999;
+    font-size: 12px;
+}
+.deve{
+    padding:50px 0;
+}
+.last-two{
+    padding:50px 0;
+}
+.last-two p{
+    font-size: 12px;
+}
+.last-two img{
+    margin-left: 28px;
+}

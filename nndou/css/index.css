@@ -1,0 +1,44 @@
+
+.good{
+    padding-bottom: 100px;
+}
+.good .row{
+    margin-bottom: 30px;
+}
+.good .row:first-child p{
+    width: max-content;
+    padding: 5px;
+    margin: 0 auto;
+    border-top: 1px solid #ffce05;
+    color:#cdcdcd;
+}
+.blood{
+    padding-bottom: 100px;
+    background: #fafafa;
+}
+.blood .row:first-child p{
+    width: max-content;
+    padding: 5px;
+    margin: 0 auto;
+    border-top: 1px solid #ffce05;
+    color:#cdcdcd;
+}
+.btn-lg{
+    margin-top: 45px;
+    background: #f6ce2a;
+}
+.we .row:first-child p{
+   text-align: center;
+   font-size: 18px;
+   color:#cdcdcd;
+}
+hr{
+    width: 100px;
+    border-top: 1px solid #ffce05;
+}
+.company{
+    text-align: justify;
+}
+.we{
+    margin-bottom: 70px;
+}
